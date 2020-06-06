@@ -1,0 +1,892 @@
+,survived,pclass,sex,age_passenger,sibsp,parch,fare,embarked,class,who,adult_male,deck,embark_town,alive,alone,name,country,population,age_city,_merge
+0,0,3,male,22.0,1,0,7.25,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+1,1,1,female,38.0,1,0,71.2833,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+2,1,3,female,26.0,0,0,7.925,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+3,1,1,female,35.0,1,0,53.1,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+4,0,3,male,35.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+5,0,3,male,,0,0,8.4583,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+6,0,1,male,54.0,0,0,51.8625,S,First,man,True,E,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+7,0,3,male,2.0,3,1,21.075,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+8,1,3,female,27.0,0,2,11.1333,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+9,1,2,female,14.0,1,0,30.0708,C,Second,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+10,1,3,female,4.0,1,1,16.7,S,Third,child,False,G,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+11,1,1,female,58.0,0,0,26.55,S,First,woman,False,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+12,0,3,male,20.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+13,0,3,male,39.0,1,5,31.275,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+14,0,3,female,14.0,0,0,7.8542,S,Third,child,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+15,1,2,female,55.0,0,0,16.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+16,0,3,male,2.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+17,1,2,male,,0,0,13.0,S,Second,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+18,0,3,female,31.0,1,0,18.0,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+19,1,3,female,,0,0,7.225,C,Third,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+20,0,2,male,35.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+21,1,2,male,34.0,0,0,13.0,S,Second,man,True,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+22,1,3,female,15.0,0,0,8.0292,Q,Third,child,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+23,1,1,male,28.0,0,0,35.5,S,First,man,True,A,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+24,0,3,female,8.0,3,1,21.075,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+25,1,3,female,38.0,1,5,31.3875,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+26,0,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+27,0,1,male,19.0,3,2,263.0,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+28,1,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+29,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+30,0,1,male,40.0,0,0,27.7208,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+31,1,1,female,,1,0,146.5208,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+32,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+33,0,2,male,66.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+34,0,1,male,28.0,1,0,82.1708,C,First,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+35,0,1,male,42.0,1,0,52.0,S,First,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+36,1,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+37,0,3,male,21.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+38,0,3,female,18.0,2,0,18.0,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+39,1,3,female,14.0,1,0,11.2417,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+40,0,3,female,40.0,1,0,9.475,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+41,0,2,female,27.0,1,0,21.0,S,Second,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+42,0,3,male,,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+43,1,2,female,3.0,1,2,41.5792,C,Second,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+44,1,3,female,19.0,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+45,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+46,0,3,male,,1,0,15.5,Q,Third,man,True,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+47,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+48,0,3,male,,2,0,21.6792,C,Third,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+49,0,3,female,18.0,1,0,17.8,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+50,0,3,male,7.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+51,0,3,male,21.0,0,0,7.8,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+52,1,1,female,49.0,1,0,76.7292,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+53,1,2,female,29.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+54,0,1,male,65.0,0,1,61.9792,C,First,man,True,B,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+55,1,1,male,,0,0,35.5,S,First,man,True,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+56,1,2,female,21.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+57,0,3,male,28.5,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+58,1,2,female,5.0,1,2,27.75,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+59,0,3,male,11.0,5,2,46.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+60,0,3,male,22.0,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+61,1,1,female,38.0,0,0,80.0,,First,woman,False,B,,yes,True,,,,,left_only
+62,0,1,male,45.0,1,0,83.475,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+63,0,3,male,4.0,3,2,27.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+64,0,1,male,,0,0,27.7208,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+65,1,3,male,,1,1,15.2458,C,Third,man,True,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+66,1,2,female,29.0,0,0,10.5,S,Second,woman,False,F,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+67,0,3,male,19.0,0,0,8.1583,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+68,1,3,female,17.0,4,2,7.925,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+69,0,3,male,26.0,2,0,8.6625,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+70,0,2,male,32.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+71,0,3,female,16.0,5,2,46.9,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+72,0,2,male,21.0,0,0,73.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+73,0,3,male,26.0,1,0,14.4542,C,Third,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+74,1,3,male,32.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+75,0,3,male,25.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+76,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+77,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+78,1,2,male,0.83,0,2,29.0,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+79,1,3,female,30.0,0,0,12.475,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+80,0,3,male,22.0,0,0,9.0,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+81,1,3,male,29.0,0,0,9.5,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+82,1,3,female,,0,0,7.7875,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+83,0,1,male,28.0,0,0,47.1,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+84,1,2,female,17.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+85,1,3,female,33.0,3,0,15.85,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+86,0,3,male,16.0,1,3,34.375,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+87,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+88,1,1,female,23.0,3,2,263.0,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+89,0,3,male,24.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+90,0,3,male,29.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+91,0,3,male,20.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+92,0,1,male,46.0,1,0,61.175,S,First,man,True,E,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+93,0,3,male,26.0,1,2,20.575,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+94,0,3,male,59.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+95,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+96,0,1,male,71.0,0,0,34.6542,C,First,man,True,A,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+97,1,1,male,23.0,0,1,63.3583,C,First,man,True,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+98,1,2,female,34.0,0,1,23.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+99,0,2,male,34.0,1,0,26.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+100,0,3,female,28.0,0,0,7.8958,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+101,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+102,0,1,male,21.0,0,1,77.2875,S,First,man,True,D,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+103,0,3,male,33.0,0,0,8.6542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+104,0,3,male,37.0,2,0,7.925,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+105,0,3,male,28.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+106,1,3,female,21.0,0,0,7.65,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+107,1,3,male,,0,0,7.775,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+108,0,3,male,38.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+109,1,3,female,,1,0,24.15,Q,Third,woman,False,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+110,0,1,male,47.0,0,0,52.0,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+111,0,3,female,14.5,1,0,14.4542,C,Third,child,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+112,0,3,male,22.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+113,0,3,female,20.0,1,0,9.825,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+114,0,3,female,17.0,0,0,14.4583,C,Third,woman,False,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+115,0,3,male,21.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+116,0,3,male,70.5,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+117,0,2,male,29.0,1,0,21.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+118,0,1,male,24.0,0,1,247.5208,C,First,man,True,B,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+119,0,3,female,2.0,4,2,31.275,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+120,0,2,male,21.0,2,0,73.5,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+121,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+122,0,2,male,32.5,1,0,30.0708,C,Second,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+123,1,2,female,32.5,0,0,13.0,S,Second,woman,False,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+124,0,1,male,54.0,0,1,77.2875,S,First,man,True,D,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+125,1,3,male,12.0,1,0,11.2417,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+126,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+127,1,3,male,24.0,0,0,7.1417,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+128,1,3,female,,1,1,22.3583,C,Third,woman,False,F,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+129,0,3,male,45.0,0,0,6.975,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+130,0,3,male,33.0,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+131,0,3,male,20.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+132,0,3,female,47.0,1,0,14.5,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+133,1,2,female,29.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+134,0,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+135,0,2,male,23.0,0,0,15.0458,C,Second,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+136,1,1,female,19.0,0,2,26.2833,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+137,0,1,male,37.0,1,0,53.1,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+138,0,3,male,16.0,0,0,9.2167,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+139,0,1,male,24.0,0,0,79.2,C,First,man,True,B,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+140,0,3,female,,0,2,15.2458,C,Third,woman,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+141,1,3,female,22.0,0,0,7.75,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+142,1,3,female,24.0,1,0,15.85,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+143,0,3,male,19.0,0,0,6.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+144,0,2,male,18.0,0,0,11.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+145,0,2,male,19.0,1,1,36.75,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+146,1,3,male,27.0,0,0,7.7958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+147,0,3,female,9.0,2,2,34.375,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+148,0,2,male,36.5,0,2,26.0,S,Second,man,True,F,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+149,0,2,male,42.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+150,0,2,male,51.0,0,0,12.525,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+151,1,1,female,22.0,1,0,66.6,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+152,0,3,male,55.5,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+153,0,3,male,40.5,0,2,14.5,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+154,0,3,male,,0,0,7.3125,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+155,0,1,male,51.0,0,1,61.3792,C,First,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+156,1,3,female,16.0,0,0,7.7333,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+157,0,3,male,30.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+158,0,3,male,,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+159,0,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+160,0,3,male,44.0,0,1,16.1,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+161,1,2,female,40.0,0,0,15.75,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+162,0,3,male,26.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+163,0,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+164,0,3,male,1.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+165,1,3,male,9.0,0,2,20.525,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+166,1,1,female,,0,1,55.0,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+167,0,3,female,45.0,1,4,27.9,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+168,0,1,male,,0,0,25.925,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+169,0,3,male,28.0,0,0,56.4958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+170,0,1,male,61.0,0,0,33.5,S,First,man,True,B,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+171,0,3,male,4.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+172,1,3,female,1.0,1,1,11.1333,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+173,0,3,male,21.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+174,0,1,male,56.0,0,0,30.6958,C,First,man,True,A,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+175,0,3,male,18.0,1,1,7.8542,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+176,0,3,male,,3,1,25.4667,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+177,0,1,female,50.0,0,0,28.7125,C,First,woman,False,C,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+178,0,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+179,0,3,male,36.0,0,0,0.0,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+180,0,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+181,0,2,male,,0,0,15.05,C,Second,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+182,0,3,male,9.0,4,2,31.3875,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+183,1,2,male,1.0,2,1,39.0,S,Second,child,False,F,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+184,1,3,female,4.0,0,2,22.025,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+185,0,1,male,,0,0,50.0,S,First,man,True,A,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+186,1,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+187,1,1,male,45.0,0,0,26.55,S,First,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+188,0,3,male,40.0,1,1,15.5,Q,Third,man,True,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+189,0,3,male,36.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+190,1,2,female,32.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+191,0,2,male,19.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+192,1,3,female,19.0,1,0,7.8542,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+193,1,2,male,3.0,1,1,26.0,S,Second,child,False,F,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+194,1,1,female,44.0,0,0,27.7208,C,First,woman,False,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+195,1,1,female,58.0,0,0,146.5208,C,First,woman,False,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+196,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+197,0,3,male,42.0,0,1,8.4042,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+198,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+199,0,2,female,24.0,0,0,13.0,S,Second,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+200,0,3,male,28.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+201,0,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+202,0,3,male,34.0,0,0,6.4958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+203,0,3,male,45.5,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+204,1,3,male,18.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+205,0,3,female,2.0,0,1,10.4625,S,Third,child,False,G,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+206,0,3,male,32.0,1,0,15.85,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+207,1,3,male,26.0,0,0,18.7875,C,Third,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+208,1,3,female,16.0,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+209,1,1,male,40.0,0,0,31.0,C,First,man,True,A,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+210,0,3,male,24.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+211,1,2,female,35.0,0,0,21.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+212,0,3,male,22.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+213,0,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+214,0,3,male,,1,0,7.75,Q,Third,man,True,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+215,1,1,female,31.0,1,0,113.275,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+216,1,3,female,27.0,0,0,7.925,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+217,0,2,male,42.0,1,0,27.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+218,1,1,female,32.0,0,0,76.2917,C,First,woman,False,D,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+219,0,2,male,30.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+220,1,3,male,16.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+221,0,2,male,27.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+222,0,3,male,51.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+223,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+224,1,1,male,38.0,1,0,90.0,S,First,man,True,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+225,0,3,male,22.0,0,0,9.35,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+226,1,2,male,19.0,0,0,10.5,S,Second,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+227,0,3,male,20.5,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+228,0,2,male,18.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+229,0,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+230,1,1,female,35.0,1,0,83.475,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+231,0,3,male,29.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+232,0,2,male,59.0,0,0,13.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+233,1,3,female,5.0,4,2,31.3875,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+234,0,2,male,24.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+235,0,3,female,,0,0,7.55,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+236,0,2,male,44.0,1,0,26.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+237,1,2,female,8.0,0,2,26.25,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+238,0,2,male,19.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+239,0,2,male,33.0,0,0,12.275,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+240,0,3,female,,1,0,14.4542,C,Third,woman,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+241,1,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+242,0,2,male,29.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+243,0,3,male,22.0,0,0,7.125,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+244,0,3,male,30.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+245,0,1,male,44.0,2,0,90.0,Q,First,man,True,C,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+246,0,3,female,25.0,0,0,7.775,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+247,1,2,female,24.0,0,2,14.5,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+248,1,1,male,37.0,1,1,52.5542,S,First,man,True,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+249,0,2,male,54.0,1,0,26.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+250,0,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+251,0,3,female,29.0,1,1,10.4625,S,Third,woman,False,G,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+252,0,1,male,62.0,0,0,26.55,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+253,0,3,male,30.0,1,0,16.1,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+254,0,3,female,41.0,0,2,20.2125,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+255,1,3,female,29.0,0,2,15.2458,C,Third,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+256,1,1,female,,0,0,79.2,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+257,1,1,female,30.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+258,1,1,female,35.0,0,0,512.3292,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+259,1,2,female,50.0,0,1,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+260,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+261,1,3,male,3.0,4,2,31.3875,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+262,0,1,male,52.0,1,1,79.65,S,First,man,True,E,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+263,0,1,male,40.0,0,0,0.0,S,First,man,True,B,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+264,0,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+265,0,2,male,36.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+266,0,3,male,16.0,4,1,39.6875,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+267,1,3,male,25.0,1,0,7.775,S,Third,man,True,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+268,1,1,female,58.0,0,1,153.4625,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+269,1,1,female,35.0,0,0,135.6333,S,First,woman,False,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+270,0,1,male,,0,0,31.0,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+271,1,3,male,25.0,0,0,0.0,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+272,1,2,female,41.0,0,1,19.5,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+273,0,1,male,37.0,0,1,29.7,C,First,man,True,C,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+274,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+275,1,1,female,63.0,1,0,77.9583,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+276,0,3,female,45.0,0,0,7.75,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+277,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+278,0,3,male,7.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+279,1,3,female,35.0,1,1,20.25,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+280,0,3,male,65.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+281,0,3,male,28.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+282,0,3,male,16.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+283,1,3,male,19.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+284,0,1,male,,0,0,26.0,S,First,man,True,A,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+285,0,3,male,33.0,0,0,8.6625,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+286,1,3,male,30.0,0,0,9.5,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+287,0,3,male,22.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+288,1,2,male,42.0,0,0,13.0,S,Second,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+289,1,3,female,22.0,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+290,1,1,female,26.0,0,0,78.85,S,First,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+291,1,1,female,19.0,1,0,91.0792,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+292,0,2,male,36.0,0,0,12.875,C,Second,man,True,D,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+293,0,3,female,24.0,0,0,8.85,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+294,0,3,male,24.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+295,0,1,male,,0,0,27.7208,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+296,0,3,male,23.5,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+297,0,1,female,2.0,1,2,151.55,S,First,child,False,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+298,1,1,male,,0,0,30.5,S,First,man,True,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+299,1,1,female,50.0,0,1,247.5208,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+300,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+301,1,3,male,,2,0,23.25,Q,Third,man,True,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+302,0,3,male,19.0,0,0,0.0,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+303,1,2,female,,0,0,12.35,Q,Second,woman,False,E,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+304,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+305,1,1,male,0.92,1,2,151.55,S,First,child,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+306,1,1,female,,0,0,110.8833,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+307,1,1,female,17.0,1,0,108.9,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+308,0,2,male,30.0,1,0,24.0,C,Second,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+309,1,1,female,30.0,0,0,56.9292,C,First,woman,False,E,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+310,1,1,female,24.0,0,0,83.1583,C,First,woman,False,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+311,1,1,female,18.0,2,2,262.375,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+312,0,2,female,26.0,1,1,26.0,S,Second,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+313,0,3,male,28.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+314,0,2,male,43.0,1,1,26.25,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+315,1,3,female,26.0,0,0,7.8542,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+316,1,2,female,24.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+317,0,2,male,54.0,0,0,14.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+318,1,1,female,31.0,0,2,164.8667,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+319,1,1,female,40.0,1,1,134.5,C,First,woman,False,E,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+320,0,3,male,22.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+321,0,3,male,27.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+322,1,2,female,30.0,0,0,12.35,Q,Second,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+323,1,2,female,22.0,1,1,29.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+324,0,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+325,1,1,female,36.0,0,0,135.6333,C,First,woman,False,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+326,0,3,male,61.0,0,0,6.2375,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+327,1,2,female,36.0,0,0,13.0,S,Second,woman,False,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+328,1,3,female,31.0,1,1,20.525,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+329,1,1,female,16.0,0,1,57.9792,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+330,1,3,female,,2,0,23.25,Q,Third,woman,False,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+331,0,1,male,45.5,0,0,28.5,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+332,0,1,male,38.0,0,1,153.4625,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+333,0,3,male,16.0,2,0,18.0,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+334,1,1,female,,1,0,133.65,S,First,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+335,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+336,0,1,male,29.0,1,0,66.6,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+337,1,1,female,41.0,0,0,134.5,C,First,woman,False,E,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+338,1,3,male,45.0,0,0,8.05,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+339,0,1,male,45.0,0,0,35.5,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+340,1,2,male,2.0,1,1,26.0,S,Second,child,False,F,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+341,1,1,female,24.0,3,2,263.0,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+342,0,2,male,28.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+343,0,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+344,0,2,male,36.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+345,1,2,female,24.0,0,0,13.0,S,Second,woman,False,F,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+346,1,2,female,40.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+347,1,3,female,,1,0,16.1,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+348,1,3,male,3.0,1,1,15.9,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+349,0,3,male,42.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+350,0,3,male,23.0,0,0,9.225,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+351,0,1,male,,0,0,35.0,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+352,0,3,male,15.0,1,1,7.2292,C,Third,child,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+353,0,3,male,25.0,1,0,17.8,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+354,0,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+355,0,3,male,28.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+356,1,1,female,22.0,0,1,55.0,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+357,0,2,female,38.0,0,0,13.0,S,Second,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+358,1,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+359,1,3,female,,0,0,7.8792,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+360,0,3,male,40.0,1,4,27.9,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+361,0,2,male,29.0,1,0,27.7208,C,Second,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+362,0,3,female,45.0,0,1,14.4542,C,Third,woman,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+363,0,3,male,35.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+364,0,3,male,,1,0,15.5,Q,Third,man,True,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+365,0,3,male,30.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+366,1,1,female,60.0,1,0,75.25,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+367,1,3,female,,0,0,7.2292,C,Third,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+368,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+369,1,1,female,24.0,0,0,69.3,C,First,woman,False,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+370,1,1,male,25.0,1,0,55.4417,C,First,man,True,E,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+371,0,3,male,18.0,1,0,6.4958,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+372,0,3,male,19.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+373,0,1,male,22.0,0,0,135.6333,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+374,0,3,female,3.0,3,1,21.075,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+375,1,1,female,,1,0,82.1708,C,First,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+376,1,3,female,22.0,0,0,7.25,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+377,0,1,male,27.0,0,2,211.5,C,First,man,True,C,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+378,0,3,male,20.0,0,0,4.0125,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+379,0,3,male,19.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+380,1,1,female,42.0,0,0,227.525,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+381,1,3,female,1.0,0,2,15.7417,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+382,0,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+383,1,1,female,35.0,1,0,52.0,S,First,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+384,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+385,0,2,male,18.0,0,0,73.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+386,0,3,male,1.0,5,2,46.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+387,1,2,female,36.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+388,0,3,male,,0,0,7.7292,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+389,1,2,female,17.0,0,0,12.0,C,Second,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+390,1,1,male,36.0,1,2,120.0,S,First,man,True,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+391,1,3,male,21.0,0,0,7.7958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+392,0,3,male,28.0,2,0,7.925,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+393,1,1,female,23.0,1,0,113.275,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+394,1,3,female,24.0,0,2,16.7,S,Third,woman,False,G,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+395,0,3,male,22.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+396,0,3,female,31.0,0,0,7.8542,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+397,0,2,male,46.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+398,0,2,male,23.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+399,1,2,female,28.0,0,0,12.65,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+400,1,3,male,39.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+401,0,3,male,26.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+402,0,3,female,21.0,1,0,9.825,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+403,0,3,male,28.0,1,0,15.85,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+404,0,3,female,20.0,0,0,8.6625,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+405,0,2,male,34.0,1,0,21.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+406,0,3,male,51.0,0,0,7.75,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+407,1,2,male,3.0,1,1,18.75,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+408,0,3,male,21.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+409,0,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+410,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+411,0,3,male,,0,0,6.8583,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+412,1,1,female,33.0,1,0,90.0,Q,First,woman,False,C,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+413,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+414,1,3,male,44.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+415,0,3,female,,0,0,8.05,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+416,1,2,female,34.0,1,1,32.5,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+417,1,2,female,18.0,0,2,13.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+418,0,2,male,30.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+419,0,3,female,10.0,0,2,24.15,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+420,0,3,male,,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+421,0,3,male,21.0,0,0,7.7333,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+422,0,3,male,29.0,0,0,7.875,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+423,0,3,female,28.0,1,1,14.4,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+424,0,3,male,18.0,1,1,20.2125,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+425,0,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+426,1,2,female,28.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+427,1,2,female,19.0,0,0,26.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+428,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+429,1,3,male,32.0,0,0,8.05,S,Third,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+430,1,1,male,28.0,0,0,26.55,S,First,man,True,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+431,1,3,female,,1,0,16.1,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+432,1,2,female,42.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+433,0,3,male,17.0,0,0,7.125,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+434,0,1,male,50.0,1,0,55.9,S,First,man,True,E,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+435,1,1,female,14.0,1,2,120.0,S,First,child,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+436,0,3,female,21.0,2,2,34.375,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+437,1,2,female,24.0,2,3,18.75,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+438,0,1,male,64.0,1,4,263.0,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+439,0,2,male,31.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+440,1,2,female,45.0,1,1,26.25,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+441,0,3,male,20.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+442,0,3,male,25.0,1,0,7.775,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+443,1,2,female,28.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+444,1,3,male,,0,0,8.1125,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+445,1,1,male,4.0,0,2,81.8583,S,First,child,False,A,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+446,1,2,female,13.0,0,1,19.5,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+447,1,1,male,34.0,0,0,26.55,S,First,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+448,1,3,female,5.0,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+449,1,1,male,52.0,0,0,30.5,S,First,man,True,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+450,0,2,male,36.0,1,2,27.75,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+451,0,3,male,,1,0,19.9667,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+452,0,1,male,30.0,0,0,27.75,C,First,man,True,C,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+453,1,1,male,49.0,1,0,89.1042,C,First,man,True,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+454,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+455,1,3,male,29.0,0,0,7.8958,C,Third,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+456,0,1,male,65.0,0,0,26.55,S,First,man,True,E,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+457,1,1,female,,1,0,51.8625,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+458,1,2,female,50.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+459,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+460,1,1,male,48.0,0,0,26.55,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+461,0,3,male,34.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+462,0,1,male,47.0,0,0,38.5,S,First,man,True,E,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+463,0,2,male,48.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+464,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+465,0,3,male,38.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+466,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+467,0,1,male,56.0,0,0,26.55,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+468,0,3,male,,0,0,7.725,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+469,1,3,female,0.75,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+470,0,3,male,,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+471,0,3,male,38.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+472,1,2,female,33.0,1,2,27.75,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+473,1,2,female,23.0,0,0,13.7917,C,Second,woman,False,D,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+474,0,3,female,22.0,0,0,9.8375,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+475,0,1,male,,0,0,52.0,S,First,man,True,A,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+476,0,2,male,34.0,1,0,21.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+477,0,3,male,29.0,1,0,7.0458,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+478,0,3,male,22.0,0,0,7.5208,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+479,1,3,female,2.0,0,1,12.2875,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+480,0,3,male,9.0,5,2,46.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+481,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+482,0,3,male,50.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+483,1,3,female,63.0,0,0,9.5875,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+484,1,1,male,25.0,1,0,91.0792,C,First,man,True,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+485,0,3,female,,3,1,25.4667,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+486,1,1,female,35.0,1,0,90.0,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+487,0,1,male,58.0,0,0,29.7,C,First,man,True,B,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+488,0,3,male,30.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+489,1,3,male,9.0,1,1,15.9,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+490,0,3,male,,1,0,19.9667,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+491,0,3,male,21.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+492,0,1,male,55.0,0,0,30.5,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+493,0,1,male,71.0,0,0,49.5042,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+494,0,3,male,21.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+495,0,3,male,,0,0,14.4583,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+496,1,1,female,54.0,1,0,78.2667,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+497,0,3,male,,0,0,15.1,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+498,0,1,female,25.0,1,2,151.55,S,First,woman,False,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+499,0,3,male,24.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+500,0,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+501,0,3,female,21.0,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+502,0,3,female,,0,0,7.6292,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+503,0,3,female,37.0,0,0,9.5875,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+504,1,1,female,16.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+505,0,1,male,18.0,1,0,108.9,C,First,man,True,C,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+506,1,2,female,33.0,0,2,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+507,1,1,male,,0,0,26.55,S,First,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+508,0,3,male,28.0,0,0,22.525,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+509,1,3,male,26.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+510,1,3,male,29.0,0,0,7.75,Q,Third,man,True,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+511,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+512,1,1,male,36.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+513,1,1,female,54.0,1,0,59.4,C,First,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+514,0,3,male,24.0,0,0,7.4958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+515,0,1,male,47.0,0,0,34.0208,S,First,man,True,D,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+516,1,2,female,34.0,0,0,10.5,S,Second,woman,False,F,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+517,0,3,male,,0,0,24.15,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+518,1,2,female,36.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+519,0,3,male,32.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+520,1,1,female,30.0,0,0,93.5,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+521,0,3,male,22.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+522,0,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+523,1,1,female,44.0,0,1,57.9792,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+524,0,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+525,0,3,male,40.5,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+526,1,2,female,50.0,0,0,10.5,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+527,0,1,male,,0,0,221.7792,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+528,0,3,male,39.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+529,0,2,male,23.0,2,1,11.5,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+530,1,2,female,2.0,1,1,26.0,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+531,0,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+532,0,3,male,17.0,1,1,7.2292,C,Third,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+533,1,3,female,,0,2,22.3583,C,Third,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+534,0,3,female,30.0,0,0,8.6625,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+535,1,2,female,7.0,0,2,26.25,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+536,0,1,male,45.0,0,0,26.55,S,First,man,True,B,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+537,1,1,female,30.0,0,0,106.425,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+538,0,3,male,,0,0,14.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+539,1,1,female,22.0,0,2,49.5,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+540,1,1,female,36.0,0,2,71.0,S,First,woman,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+541,0,3,female,9.0,4,2,31.275,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+542,0,3,female,11.0,4,2,31.275,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+543,1,2,male,32.0,1,0,26.0,S,Second,man,True,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+544,0,1,male,50.0,1,0,106.425,C,First,man,True,C,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+545,0,1,male,64.0,0,0,26.0,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+546,1,2,female,19.0,1,0,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+547,1,2,male,,0,0,13.8625,C,Second,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+548,0,3,male,33.0,1,1,20.525,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+549,1,2,male,8.0,1,1,36.75,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+550,1,1,male,17.0,0,2,110.8833,C,First,man,True,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+551,0,2,male,27.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+552,0,3,male,,0,0,7.8292,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+553,1,3,male,22.0,0,0,7.225,C,Third,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+554,1,3,female,22.0,0,0,7.775,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+555,0,1,male,62.0,0,0,26.55,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+556,1,1,female,48.0,1,0,39.6,C,First,woman,False,A,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+557,0,1,male,,0,0,227.525,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+558,1,1,female,39.0,1,1,79.65,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+559,1,3,female,36.0,1,0,17.4,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+560,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+561,0,3,male,40.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+562,0,2,male,28.0,0,0,13.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+563,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+564,0,3,female,,0,0,8.05,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+565,0,3,male,24.0,2,0,24.15,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+566,0,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+567,0,3,female,29.0,0,4,21.075,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+568,0,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+569,1,3,male,32.0,0,0,7.8542,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+570,1,2,male,62.0,0,0,10.5,S,Second,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+571,1,1,female,53.0,2,0,51.4792,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+572,1,1,male,36.0,0,0,26.3875,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+573,1,3,female,,0,0,7.75,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+574,0,3,male,16.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+575,0,3,male,19.0,0,0,14.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+576,1,2,female,34.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+577,1,1,female,39.0,1,0,55.9,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+578,0,3,female,,1,0,14.4583,C,Third,woman,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+579,1,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+580,1,2,female,25.0,1,1,30.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+581,1,1,female,39.0,1,1,110.8833,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+582,0,2,male,54.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+583,0,1,male,36.0,0,0,40.125,C,First,man,True,A,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+584,0,3,male,,0,0,8.7125,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+585,1,1,female,18.0,0,2,79.65,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+586,0,2,male,47.0,0,0,15.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+587,1,1,male,60.0,1,1,79.2,C,First,man,True,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+588,0,3,male,22.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+589,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+590,0,3,male,35.0,0,0,7.125,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+591,1,1,female,52.0,1,0,78.2667,C,First,woman,False,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+592,0,3,male,47.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+593,0,3,female,,0,2,7.75,Q,Third,woman,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+594,0,2,male,37.0,1,0,26.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+595,0,3,male,36.0,1,1,24.15,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+596,1,2,female,,0,0,33.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+597,0,3,male,49.0,0,0,0.0,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+598,0,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+599,1,1,male,49.0,1,0,56.9292,C,First,man,True,A,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+600,1,2,female,24.0,2,1,27.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+601,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+602,0,1,male,,0,0,42.4,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+603,0,3,male,44.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+604,1,1,male,35.0,0,0,26.55,C,First,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+605,0,3,male,36.0,1,0,15.55,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+606,0,3,male,30.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+607,1,1,male,27.0,0,0,30.5,S,First,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+608,1,2,female,22.0,1,2,41.5792,C,Second,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+609,1,1,female,40.0,0,0,153.4625,S,First,woman,False,C,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+610,0,3,female,39.0,1,5,31.275,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+611,0,3,male,,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+612,1,3,female,,1,0,15.5,Q,Third,woman,False,,Queenstown,yes,False,Queenstown,United Kingdom,12347.0,870.0,both
+613,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+614,0,3,male,35.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+615,1,2,female,24.0,1,2,65.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+616,0,3,male,34.0,1,1,14.4,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+617,0,3,female,26.0,1,0,16.1,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+618,1,2,female,4.0,2,1,39.0,S,Second,child,False,F,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+619,0,2,male,26.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+620,0,3,male,27.0,1,0,14.4542,C,Third,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+621,1,1,male,42.0,1,0,52.5542,S,First,man,True,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+622,1,3,male,20.0,1,1,15.7417,C,Third,man,True,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+623,0,3,male,21.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+624,0,3,male,21.0,0,0,16.1,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+625,0,1,male,61.0,0,0,32.3208,S,First,man,True,D,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+626,0,2,male,57.0,0,0,12.35,Q,Second,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+627,1,1,female,21.0,0,0,77.9583,S,First,woman,False,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+628,0,3,male,26.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+629,0,3,male,,0,0,7.7333,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+630,1,1,male,80.0,0,0,30.0,S,First,man,True,A,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+631,0,3,male,51.0,0,0,7.0542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+632,1,1,male,32.0,0,0,30.5,C,First,man,True,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+633,0,1,male,,0,0,0.0,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+634,0,3,female,9.0,3,2,27.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+635,1,2,female,28.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+636,0,3,male,32.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+637,0,2,male,31.0,1,1,26.25,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+638,0,3,female,41.0,0,5,39.6875,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+639,0,3,male,,1,0,16.1,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+640,0,3,male,20.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+641,1,1,female,24.0,0,0,69.3,C,First,woman,False,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+642,0,3,female,2.0,3,2,27.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+643,1,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+644,1,3,female,0.75,2,1,19.2583,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+645,1,1,male,48.0,1,0,76.7292,C,First,man,True,D,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+646,0,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+647,1,1,male,56.0,0,0,35.5,C,First,man,True,A,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+648,0,3,male,,0,0,7.55,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+649,1,3,female,23.0,0,0,7.55,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+650,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+651,1,2,female,18.0,0,1,23.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+652,0,3,male,21.0,0,0,8.4333,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+653,1,3,female,,0,0,7.8292,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+654,0,3,female,18.0,0,0,6.75,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+655,0,2,male,24.0,2,0,73.5,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+656,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+657,0,3,female,32.0,1,1,15.5,Q,Third,woman,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+658,0,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+659,0,1,male,58.0,0,2,113.275,C,First,man,True,D,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+660,1,1,male,50.0,2,0,133.65,S,First,man,True,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+661,0,3,male,40.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+662,0,1,male,47.0,0,0,25.5875,S,First,man,True,E,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+663,0,3,male,36.0,0,0,7.4958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+664,1,3,male,20.0,1,0,7.925,S,Third,man,True,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+665,0,2,male,32.0,2,0,73.5,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+666,0,2,male,25.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+667,0,3,male,,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+668,0,3,male,43.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+669,1,1,female,,1,0,52.0,S,First,woman,False,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+670,1,2,female,40.0,1,1,39.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+671,0,1,male,31.0,1,0,52.0,S,First,man,True,B,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+672,0,2,male,70.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+673,1,2,male,31.0,0,0,13.0,S,Second,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+674,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+675,0,3,male,18.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+676,0,3,male,24.5,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+677,1,3,female,18.0,0,0,9.8417,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+678,0,3,female,43.0,1,6,46.9,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+679,1,1,male,36.0,0,1,512.3292,C,First,man,True,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+680,0,3,female,,0,0,8.1375,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+681,1,1,male,27.0,0,0,76.7292,C,First,man,True,D,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+682,0,3,male,20.0,0,0,9.225,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+683,0,3,male,14.0,5,2,46.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+684,0,2,male,60.0,1,1,39.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+685,0,2,male,25.0,1,2,41.5792,C,Second,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+686,0,3,male,14.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+687,0,3,male,19.0,0,0,10.1708,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+688,0,3,male,18.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+689,1,1,female,15.0,0,1,211.3375,S,First,child,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+690,1,1,male,31.0,1,0,57.0,S,First,man,True,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+691,1,3,female,4.0,0,1,13.4167,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+692,1,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+693,0,3,male,25.0,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+694,0,1,male,60.0,0,0,26.55,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+695,0,2,male,52.0,0,0,13.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+696,0,3,male,44.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+697,1,3,female,,0,0,7.7333,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+698,0,1,male,49.0,1,1,110.8833,C,First,man,True,C,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+699,0,3,male,42.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+700,1,1,female,18.0,1,0,227.525,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+701,1,1,male,35.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+702,0,3,female,18.0,0,1,14.4542,C,Third,woman,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+703,0,3,male,25.0,0,0,7.7417,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+704,0,3,male,26.0,1,0,7.8542,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+705,0,2,male,39.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+706,1,2,female,45.0,0,0,13.5,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+707,1,1,male,42.0,0,0,26.2875,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+708,1,1,female,22.0,0,0,151.55,S,First,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+709,1,3,male,,1,1,15.2458,C,Third,man,True,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+710,1,1,female,24.0,0,0,49.5042,C,First,woman,False,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+711,0,1,male,,0,0,26.55,S,First,man,True,C,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+712,1,1,male,48.0,1,0,52.0,S,First,man,True,C,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+713,0,3,male,29.0,0,0,9.4833,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+714,0,2,male,52.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+715,0,3,male,19.0,0,0,7.65,S,Third,man,True,F,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+716,1,1,female,38.0,0,0,227.525,C,First,woman,False,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+717,1,2,female,27.0,0,0,10.5,S,Second,woman,False,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+718,0,3,male,,0,0,15.5,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+719,0,3,male,33.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+720,1,2,female,6.0,0,1,33.0,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+721,0,3,male,17.0,1,0,7.0542,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+722,0,2,male,34.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+723,0,2,male,50.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+724,1,1,male,27.0,1,0,53.1,S,First,man,True,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+725,0,3,male,20.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+726,1,2,female,30.0,3,0,21.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+727,1,3,female,,0,0,7.7375,Q,Third,woman,False,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+728,0,2,male,25.0,1,0,26.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+729,0,3,female,25.0,1,0,7.925,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+730,1,1,female,29.0,0,0,211.3375,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+731,0,3,male,11.0,0,0,18.7875,C,Third,child,False,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+732,0,2,male,,0,0,0.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+733,0,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+734,0,2,male,23.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+735,0,3,male,28.5,0,0,16.1,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+736,0,3,female,48.0,1,3,34.375,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+737,1,1,male,35.0,0,0,512.3292,C,First,man,True,B,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+738,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+739,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+740,1,1,male,,0,0,30.0,S,First,man,True,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+741,0,1,male,36.0,1,0,78.85,S,First,man,True,C,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+742,1,1,female,21.0,2,2,262.375,C,First,woman,False,B,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+743,0,3,male,24.0,1,0,16.1,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+744,1,3,male,31.0,0,0,7.925,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+745,0,1,male,70.0,1,1,71.0,S,First,man,True,B,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+746,0,3,male,16.0,1,1,20.25,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+747,1,2,female,30.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+748,0,1,male,19.0,1,0,53.1,S,First,man,True,D,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+749,0,3,male,31.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+750,1,2,female,4.0,1,1,23.0,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+751,1,3,male,6.0,0,1,12.475,S,Third,child,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+752,0,3,male,33.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+753,0,3,male,23.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+754,1,2,female,48.0,1,2,65.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+755,1,2,male,0.67,1,1,14.5,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+756,0,3,male,28.0,0,0,7.7958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+757,0,2,male,18.0,0,0,11.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+758,0,3,male,34.0,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+759,1,1,female,33.0,0,0,86.5,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+760,0,3,male,,0,0,14.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+761,0,3,male,41.0,0,0,7.125,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+762,1,3,male,20.0,0,0,7.2292,C,Third,man,True,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+763,1,1,female,36.0,1,2,120.0,S,First,woman,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+764,0,3,male,16.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+765,1,1,female,51.0,1,0,77.9583,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+766,0,1,male,,0,0,39.6,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+767,0,3,female,30.5,0,0,7.75,Q,Third,woman,False,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+768,0,3,male,,1,0,24.15,Q,Third,man,True,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+769,0,3,male,32.0,0,0,8.3625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+770,0,3,male,24.0,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+771,0,3,male,48.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+772,0,2,female,57.0,0,0,10.5,S,Second,woman,False,E,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+773,0,3,male,,0,0,7.225,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+774,1,2,female,54.0,1,3,23.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+775,0,3,male,18.0,0,0,7.75,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+776,0,3,male,,0,0,7.75,Q,Third,man,True,F,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+777,1,3,female,5.0,0,0,12.475,S,Third,child,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+778,0,3,male,,0,0,7.7375,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+779,1,1,female,43.0,0,1,211.3375,S,First,woman,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+780,1,3,female,13.0,0,0,7.2292,C,Third,child,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+781,1,1,female,17.0,1,0,57.0,S,First,woman,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+782,0,1,male,29.0,0,0,30.0,S,First,man,True,D,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+783,0,3,male,,1,2,23.45,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+784,0,3,male,25.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+785,0,3,male,25.0,0,0,7.25,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+786,1,3,female,18.0,0,0,7.4958,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+787,0,3,male,8.0,4,1,29.125,Q,Third,child,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+788,1,3,male,1.0,1,2,20.575,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+789,0,1,male,46.0,0,0,79.2,C,First,man,True,B,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+790,0,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+791,0,2,male,16.0,0,0,26.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+792,0,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+793,0,1,male,,0,0,30.6958,C,First,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+794,0,3,male,25.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+795,0,2,male,39.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+796,1,1,female,49.0,0,0,25.9292,S,First,woman,False,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+797,1,3,female,31.0,0,0,8.6833,S,Third,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+798,0,3,male,30.0,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+799,0,3,female,30.0,1,1,24.15,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+800,0,2,male,34.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+801,1,2,female,31.0,1,1,26.25,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+802,1,1,male,11.0,1,2,120.0,S,First,child,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+803,1,3,male,0.42,0,1,8.5167,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+804,1,3,male,27.0,0,0,6.975,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+805,0,3,male,31.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+806,0,1,male,39.0,0,0,0.0,S,First,man,True,A,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+807,0,3,female,18.0,0,0,7.775,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+808,0,2,male,39.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+809,1,1,female,33.0,1,0,53.1,S,First,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+810,0,3,male,26.0,0,0,7.8875,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+811,0,3,male,39.0,0,0,24.15,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+812,0,2,male,35.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+813,0,3,female,6.0,4,2,31.275,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+814,0,3,male,30.5,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+815,0,1,male,,0,0,0.0,S,First,man,True,B,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+816,0,3,female,23.0,0,0,7.925,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+817,0,2,male,31.0,1,1,37.0042,C,Second,man,True,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+818,0,3,male,43.0,0,0,6.45,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+819,0,3,male,10.0,3,2,27.9,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+820,1,1,female,52.0,1,1,93.5,S,First,woman,False,B,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+821,1,3,male,27.0,0,0,8.6625,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+822,0,1,male,38.0,0,0,0.0,S,First,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+823,1,3,female,27.0,0,1,12.475,S,Third,woman,False,E,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+824,0,3,male,2.0,4,1,39.6875,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+825,0,3,male,,0,0,6.95,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
+826,0,3,male,,0,0,56.4958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+827,1,2,male,1.0,0,2,37.0042,C,Second,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+828,1,3,male,,0,0,7.75,Q,Third,man,True,,Queenstown,yes,True,Queenstown,United Kingdom,12347.0,870.0,both
+829,1,1,female,62.0,0,0,80.0,,First,woman,False,B,,yes,True,,,,,left_only
+830,1,3,female,15.0,1,0,14.4542,C,Third,child,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+831,1,2,male,0.83,1,1,18.75,S,Second,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+832,0,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+833,0,3,male,23.0,0,0,7.8542,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+834,0,3,male,18.0,0,0,8.3,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+835,1,1,female,39.0,1,1,83.1583,C,First,woman,False,E,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+836,0,3,male,21.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+837,0,3,male,,0,0,8.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+838,1,3,male,32.0,0,0,56.4958,S,Third,man,True,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+839,1,1,male,,0,0,29.7,C,First,man,True,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+840,0,3,male,20.0,0,0,7.925,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+841,0,2,male,16.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+842,1,1,female,30.0,0,0,31.0,C,First,woman,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+843,0,3,male,34.5,0,0,6.4375,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+844,0,3,male,17.0,0,0,8.6625,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+845,0,3,male,42.0,0,0,7.55,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+846,0,3,male,,8,2,69.55,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+847,0,3,male,35.0,0,0,7.8958,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+848,0,2,male,28.0,0,1,33.0,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+849,1,1,female,,1,0,89.1042,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+850,0,3,male,4.0,4,2,31.275,S,Third,child,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+851,0,3,male,74.0,0,0,7.775,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+852,0,3,female,9.0,1,1,15.2458,C,Third,child,False,,Cherbourg,no,False,Cherbourg,France,37121.0,793.0,both
+853,1,1,female,16.0,0,1,39.4,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+854,0,2,female,44.0,1,0,26.0,S,Second,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+855,1,3,female,18.0,0,1,9.35,S,Third,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+856,1,1,female,45.0,1,1,164.8667,S,First,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+857,1,1,male,51.0,0,0,26.55,S,First,man,True,E,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+858,1,3,female,24.0,0,3,19.2583,C,Third,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+859,0,3,male,,0,0,7.2292,C,Third,man,True,,Cherbourg,no,True,Cherbourg,France,37121.0,793.0,both
+860,0,3,male,41.0,2,0,14.1083,S,Third,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+861,0,2,male,21.0,1,0,11.5,S,Second,man,True,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+862,1,1,female,48.0,0,0,25.9292,S,First,woman,False,D,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+863,0,3,female,,8,2,69.55,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+864,0,2,male,24.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+865,1,2,female,42.0,0,0,13.0,S,Second,woman,False,,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+866,1,2,female,27.0,1,0,13.8583,C,Second,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+867,0,1,male,31.0,0,0,50.4958,S,First,man,True,A,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+868,0,3,male,,0,0,9.5,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+869,1,3,male,4.0,1,1,11.1333,S,Third,child,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+870,0,3,male,26.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+871,1,1,female,47.0,1,1,52.5542,S,First,woman,False,D,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+872,0,1,male,33.0,0,0,5.0,S,First,man,True,B,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+873,0,3,male,47.0,0,0,9.0,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+874,1,2,female,28.0,1,0,24.0,C,Second,woman,False,,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+875,1,3,female,15.0,0,0,7.225,C,Third,child,False,,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+876,0,3,male,20.0,0,0,9.8458,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+877,0,3,male,19.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+878,0,3,male,,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+879,1,1,female,56.0,0,1,83.1583,C,First,woman,False,C,Cherbourg,yes,False,Cherbourg,France,37121.0,793.0,both
+880,1,2,female,25.0,0,1,26.0,S,Second,woman,False,,Southampton,yes,False,Southampton,United Kingdom,236900.0,887.0,both
+881,0,3,male,33.0,0,0,7.8958,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+882,0,3,female,22.0,0,0,10.5167,S,Third,woman,False,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+883,0,2,male,28.0,0,0,10.5,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+884,0,3,male,25.0,0,0,7.05,S,Third,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+885,0,3,female,39.0,0,5,29.125,Q,Third,woman,False,,Queenstown,no,False,Queenstown,United Kingdom,12347.0,870.0,both
+886,0,2,male,27.0,0,0,13.0,S,Second,man,True,,Southampton,no,True,Southampton,United Kingdom,236900.0,887.0,both
+887,1,1,female,19.0,0,0,30.0,S,First,woman,False,B,Southampton,yes,True,Southampton,United Kingdom,236900.0,887.0,both
+888,0,3,female,,1,2,23.45,S,Third,woman,False,,Southampton,no,False,Southampton,United Kingdom,236900.0,887.0,both
+889,1,1,male,26.0,0,0,30.0,C,First,man,True,C,Cherbourg,yes,True,Cherbourg,France,37121.0,793.0,both
+890,0,3,male,32.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True,Queenstown,United Kingdom,12347.0,870.0,both
